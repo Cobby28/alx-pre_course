@@ -1,5 +1,1 @@
-#!/bin/bash
- echo h
- ecgo "ALX 
-#!/bin/bash
- echo "ALX" 
+#!/bin/bash\n echo "ALX" 
